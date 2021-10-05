@@ -16,6 +16,7 @@
 <img align="left" alt="ajax" width="50px" src="https://hkim25.github.io/assets/images/icons/ajax.png" />
 <img align="left" alt="javascript" width="50px" src="https://hkim25.github.io/assets/images/icons/javascript.png" />
 <img align="left" alt="bootstrap" width="50px" src="https://hkim25.github.io/assets/images/icons/bootstrap.png" />
+<br><br><br>
 <img align="left" alt="jquery" width="50px" src="https://hkim25.github.io/assets/images/icons/jquery-vertical.png" />
 <img align="left" alt="eclipse" width="50px" src="https://hkim25.github.io/assets/images/icons/eclipse-icon.png" />
 <img align="left" alt="mybatis" width="50px" src="https://hkim25.github.io/assets/images/icons/mybatis.png" />
