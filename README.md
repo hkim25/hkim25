@@ -1,9 +1,8 @@
 ### Hi there, I'm hkim 👋
 
-## I want to be a full-stack developer, especially specialized for the backend.
+## I am a backend developer, especially specialized for the middleware.
 
-- 🌱 I’m currently learning Spring Framework.
-- 🤔 I’m looking for a job.
+- 🌱 I’m currently learning SAP PO.
 - 📫 If you want to reach me, please just mail me.
 - ⚡ Fun fact: I like to make music🎹. also like playing guitar🎸 and drums🥁.
 
