@@ -1,8 +1,8 @@
 ### Hi there, I'm hkim 👋
 
-## I am a backend developer, especially specialized for the middleware.
+## I am an Integration Consultant, especially specialized for the SAP Process Orchestration.
 
-- 🌱 I’m currently learning SAP PO.
+- 🌱 I’m currently learning WebMethods.
 - 📫 If you want to reach me, please just mail me.
 - ⚡ Fun fact: I like to make music🎹. also like playing guitar🎸 and drums🥁.
 
