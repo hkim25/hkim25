@@ -2,7 +2,7 @@
 
 ## I am an Integration Consultant, especially specialized for the SAP Process Orchestration.
 
-- 🌱 I’m currently learning WebMethods.
+- 🌱 I’m currently learning SAP Integration Suite.
 - 📫 If you want to reach me, please just mail me.
 - ⚡ Fun fact: I like to make music🎹. also like playing guitar🎸 and drums🥁.
 
