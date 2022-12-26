@@ -11,17 +11,8 @@
 <img align="left" alt="java" width="50px" src="https://hkim25.github.io/assets/images/icons/java-horizontal.png" />
 <img align="left" alt="oracle" width="50px" src="https://hkim25.github.io/assets/images/icons/oracle.png" />
 <img align="left" alt="spring" width="50px" src="https://hkim25.github.io/assets/images/icons/spring-framework.png" />
-<img align="left" alt="vscode" width="50px" src="https://hkim25.github.io/assets/images/icons/visual-studio-code.png" />
-<img align="left" alt="ajax" width="50px" src="https://hkim25.github.io/assets/images/icons/ajax.png" />
 <img align="left" alt="javascript" width="50px" src="https://hkim25.github.io/assets/images/icons/javascript.png" />
 <img align="left" alt="bootstrap" width="50px" src="https://hkim25.github.io/assets/images/icons/bootstrap.png" />
-<br><br><br>
-<img align="left" alt="jquery" width="50px" src="https://hkim25.github.io/assets/images/icons/jquery-vertical.png" />
-<img align="left" alt="eclipse" width="50px" src="https://hkim25.github.io/assets/images/icons/eclipse-icon.png" />
-<img align="left" alt="mybatis" width="50px" src="https://hkim25.github.io/assets/images/icons/mybatis.png" />
-<img align="left" alt="html5" width="50px" src="https://hkim25.github.io/assets/images/icons/html5.png" />
-<img align="left" alt="css3" width="50px" src="https://hkim25.github.io/assets/images/icons/css3.png" />
-<img align="left" alt="github" width="50px" src="https://hkim25.github.io/assets/images/icons/github.png" />
 
 
 
