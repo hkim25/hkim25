@@ -14,9 +14,6 @@
 <img align="left" alt="javascript" width="50px" src="https://hkim25.github.io/assets/images/icons/javascript.png" />
 <img align="left" alt="bootstrap" width="50px" src="https://hkim25.github.io/assets/images/icons/bootstrap.png" />
 
-
-
-
 <!--
 **hkim25/hkim25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
